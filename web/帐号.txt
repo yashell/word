@@ -1,0 +1,60 @@
+姓名：杨实
+以下为工作帐号，请登录后尽快修改初始密码。
+===============================
+
+企业邮箱
+web登录地址：https://qiye.aliyun.com
+用户名：shi.yang@bjyixiu.com
+密码：Abc@12345
+
+===============================
+
+禅道
+登录地址：http://120.78.201.103:8080
+用户名：yangshi
+密码：1zeUbPycYt0J
+
+c1302#meinima
+===============================
+toys
+GIT
+http://117.78.36.125:10080
+用户名：yangshi
+密码：QjSCDQk7aMB2
+
+
+yrt231 LG87QCPK
+经销商 ：15863200265  肖肖   上级yrt22 
+医院：13852014785
+厂商：15963201548  热巴    上级yrt21 
+平台:  test
+
+
+3394  
+this.$refs.xStorageAllocatTable.updateData()
+
+18888888888
+
+yrt310 a1234567
+
+
+密码都是a1234567
+
+yrt377 
+LG87QCPK
+
+LG87QCPK
+
+
+
+   if (this.isDisable) return
+            this.isDisable = true
+            setTimeout(() => {
+                this.isDisable = false
+            }, 1000)
+
+
+
+  :max="99999.999"
+ :formatter="value => `${value}`.replace(/^(\-)*(\d+)\.(\d\d\d).*$/, '$1$2.$3')"
+                                    :parser="value => value.replace(/^(\-)*(\d+)\.(\d\d\d).*$/, '$1$2.$3')"
