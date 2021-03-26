@@ -1,0 +1,24 @@
+1.查看所有正在运行的screen
+screen -ls 
+
+2.进入前端对应的screen
+screen -r 289773 
+289773 是根据
+
+3.之前如果是正在运行
+ctrl+c 断开服务
+
+4.拉代码
+git pull 
+
+5.输入华为云帐号密码
+ldsoft/ldsoft-ys
+z123456
+
+6.如果需要，npm install，否则运行
+npm run serve
+
+
+7.ctrl+a+d 退出界面
+
+
